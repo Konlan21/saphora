@@ -1,2 +1,2 @@
-# sapora
+# saphora
 Ecommerce store
